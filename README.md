@@ -7,6 +7,8 @@ Welcome to my digital logic design portfolio! This repository highlights a fully
 * **Simulation Platform:** EDA Playground (Browser-based cloud environment)
 * **Simulation Engine:** Icarus Verilog 12.0
 * **Waveform Visualization:** EPWave Timing Viewer
+<img width="1862" height="835" alt="Waveform" src="https://github.com/user-attachments/assets/2622ab53-329a-436a-8277-8f4f229e4e65" />
+
 
 ## 🎛️ Architecture & Feature Set
 Guided by a 3-bit operational selector (`ALU_Sel`), this module handles native 8-bit arithmetic execution, bitwise logic operations, and data-shifting operations with hardware flag monitoring:
